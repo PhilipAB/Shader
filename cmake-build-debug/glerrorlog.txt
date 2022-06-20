@@ -1,0 +1,194 @@
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid enum
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 49:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 50:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Game/Scene.cpp", line: 102:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Game/Scene.cpp", line: 103:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Game/Scene.cpp", line: 106:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Game/Scene.cpp", line: 107:
+invalid operation
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Game/Scene.cpp", line: 107:
+invalid enum
+An OpenGL error occured at file: "C:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets/ShaderProgram.cpp", line: 48:
+invalid enum
