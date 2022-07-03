@@ -18,7 +18,7 @@ Transform::Transform() :
 	m_transformMatrix(),
 	m_xaxis(1.0f, 0.0f, 0.0f),
 	m_yaxis(0.0f, 1.0f, 0.0f),
-	m_zaxis(0.0f, 1.0f, 0.0f),
+	m_zaxis(0.0f, 0.0f, 1.0f),
 	m_matrixDirty(true)
 {}
 

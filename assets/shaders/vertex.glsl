@@ -11,5 +11,5 @@ out vec3 colorVS;
 
 void main(){
     colorVS = colorRGB;
-    gl_Position = modelmatrix * view_matrix * projection_matrix * vec4(pos.x, pos.y, pos.z, 1.0);
+    gl_Position = projection_matrix * view_matrix * modelmatrix * vec4(pos.x, pos.y, pos.z, 1.0);
 }

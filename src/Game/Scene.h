@@ -6,6 +6,7 @@
 #include <ShaderProgram.h>
 #include <memory>
 #include <AssetManager.h>
+#include "Camera.h"
 
 class Scene
 {
@@ -38,6 +39,9 @@ private:
     Renderable* renderableSphere2;
     Renderable* renderableSphere3;
     float dtSum;
-
+    Camera* m_camera;
+    Camera* m2_camera;
+    bool is_m2_cam;
+    Renderable* cycle;
 };
 

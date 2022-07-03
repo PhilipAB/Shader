@@ -7,6 +7,7 @@
 class Camera : public Transform {
 public:
     Camera(float width, float height, float aperture, float min_dist, float max_dist);
+    Camera(float width, float height, float aperture, float min_dist, float max_dist, Transform* target);
     virtual ~Camera();
     glm::mat4 getViewMatrix();
     glm::mat4 getProjectionMatrix();
@@ -17,6 +18,7 @@ private:
     float camera_aperture;
     float camera_min_dist;
     float camera_max_dist;
+    Transform* m_target;
 };
 
 

@@ -119,6 +119,16 @@ build CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Renderable.cp
   TARGET_COMPILE_PDB = CMakeFiles\Shaderentwicklung.dir\
   TARGET_PDB = Shaderentwicklung.pdb
 
+build CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Camera.cpp.obj: CXX_COMPILER__Shaderentwicklung_Debug C$:/Users/pbremer.SVA/Desktop/Shader/src/Framework/SceneElements/Camera.cpp || cmake_object_order_depends_target_Shaderentwicklung
+  DEFINES = -DGLEW_STATIC
+  DEP_FILE = CMakeFiles\Shaderentwicklung.dir\src\Framework\SceneElements\Camera.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  INCLUDES = -IC:/Users/pbremer.SVA/Desktop/Shader/src -IC:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Assets -IC:/Users/pbremer.SVA/Desktop/Shader/src/Framework/Rendering -IC:/Users/pbremer.SVA/Desktop/Shader/src/Framework/SceneElements -IC:/Users/pbremer.SVA/Desktop/Shader/src/Game -IC:/Users/pbremer.SVA/Desktop/Shader/framework -IC:/Users/pbremer.SVA/Desktop/Shader/libs/glfw-3.2.1/include -IC:/Users/pbremer.SVA/Desktop/Shader/libs/glew-2.1.0/include -IC:/Users/pbremer.SVA/Desktop/Shader/libs/glew-2.1.0/include/GL -IC:/Users/pbremer.SVA/Desktop/Shader/libs/glm-master -IC:/Users/pbremer.SVA/Desktop/Shader/libs/stb
+  OBJECT_DIR = CMakeFiles\Shaderentwicklung.dir
+  OBJECT_FILE_DIR = CMakeFiles\Shaderentwicklung.dir\src\Framework\SceneElements
+  TARGET_COMPILE_PDB = CMakeFiles\Shaderentwicklung.dir\
+  TARGET_PDB = Shaderentwicklung.pdb
+
 build CMakeFiles/Shaderentwicklung.dir/src/Game/Game.cpp.obj: CXX_COMPILER__Shaderentwicklung_Debug C$:/Users/pbremer.SVA/Desktop/Shader/src/Game/Game.cpp || cmake_object_order_depends_target_Shaderentwicklung
   DEFINES = -DGLEW_STATIC
   DEP_FILE = CMakeFiles\Shaderentwicklung.dir\src\Game\Game.cpp.obj.d
@@ -187,7 +197,7 @@ build CMakeFiles/Shaderentwicklung.dir/framework/OBJLoader.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable Shaderentwicklung.exe
 
-build Shaderentwicklung.exe: CXX_EXECUTABLE_LINKER__Shaderentwicklung_Debug CMakeFiles/Shaderentwicklung.dir/src/main.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/Assets/AssetManager.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/Assets/ShaderProgram.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/Rendering/Primitives.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Transform.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Mesh.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Renderable.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Game/Game.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Game/Scene.cpp.obj CMakeFiles/Shaderentwicklung.dir/framework/GameWindow.cpp.obj CMakeFiles/Shaderentwicklung.dir/framework/glerror.cpp.obj CMakeFiles/Shaderentwicklung.dir/framework/Input.cpp.obj CMakeFiles/Shaderentwicklung.dir/framework/OBJLoader.cpp.obj | libs/glfw-3.2.1/src/libglfw3.a lib/libglew32d.a libs/stb/libstb.a || lib/libglew32d.a libs/glfw-3.2.1/src/libglfw3.a libs/stb/libstb.a
+build Shaderentwicklung.exe: CXX_EXECUTABLE_LINKER__Shaderentwicklung_Debug CMakeFiles/Shaderentwicklung.dir/src/main.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/Assets/AssetManager.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/Assets/ShaderProgram.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/Rendering/Primitives.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Transform.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Mesh.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Renderable.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Framework/SceneElements/Camera.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Game/Game.cpp.obj CMakeFiles/Shaderentwicklung.dir/src/Game/Scene.cpp.obj CMakeFiles/Shaderentwicklung.dir/framework/GameWindow.cpp.obj CMakeFiles/Shaderentwicklung.dir/framework/glerror.cpp.obj CMakeFiles/Shaderentwicklung.dir/framework/Input.cpp.obj CMakeFiles/Shaderentwicklung.dir/framework/OBJLoader.cpp.obj | libs/glfw-3.2.1/src/libglfw3.a lib/libglew32d.a libs/stb/libstb.a || lib/libglew32d.a libs/glfw-3.2.1/src/libglfw3.a libs/stb/libstb.a
   FLAGS = -g
   LINK_LIBRARIES = libs/glfw-3.2.1/src/libglfw3.a  lib/libglew32d.a  -lopengl32  -lglu32  libs/stb/libstb.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Shaderentwicklung.dir
